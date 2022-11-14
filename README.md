@@ -1,7 +1,7 @@
 # RESOLUTION_PSEINT
 Resolucion de algoritmos con pseint
 
-Nombre:Dennis Ponce
+Nombre:Dennis Alexander Ponce Sanchez
 Paralelo:Primero C
 Carrera: Desarrollo de Software.
 Universidad : Instituto Tecnológico Superior Cordillera 
